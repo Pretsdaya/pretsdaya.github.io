@@ -1,0 +1,42 @@
+body {
+    background-color: #cacaca;
+}
+/*
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 2px;
+    border-;
+}
+*/
+hr {
+    border: none;
+    border-top: 0.4px double #333;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: #393e46;
+}
+#topline {
+    border-style: solid;
+    border-width: 0.2px;
+    border-color: rgb(11, 101, 124);
+    height: 0.2px;
+}
+#customline {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: rgb(11, 101, 124)
+}
+
+a:hover {
+    color: #e46319;
+    background-color: rgb(63, 60, 60);
+    font-size: larger;
+}
+
+.monospace {
+    font-family: Lucida Console, Courier, monospace;
+  }
