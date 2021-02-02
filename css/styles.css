@@ -1,6 +1,10 @@
 body {
     background-color: #cacaca;
 }
+
+p {
+    text-align: justify;
+}
 /*
 hr {
     border-style: none;
@@ -37,6 +41,20 @@ a:hover {
     font-size: larger;
 }
 
+.bio {
+    width: 85vw;
+    /* background-color: palevioletred; */
+    /* display: block; */
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-bottom: 0px;
+    /* padding-top: 15px; */
+}
+
 .monospace {
     font-family: Lucida Console, Courier, monospace;
+  }
+
+.checked {
+    color: orange;
   }
